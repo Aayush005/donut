@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+
+        <com.gulabjamun.donut.Utils.SquareImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp"
+            android:background="#FF1744"
+            android:id="@+id/color1"/>
+
+        <com.gulabjamun.donut.Utils.SquareImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="#1B5E20"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp"
+            android:id="@+id/color2"/>
+        <com.gulabjamun.donut.Utils.SquareImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp"
+            android:background="#039BE5"
+            android:id="@+id/color3"/>
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+
+        <com.gulabjamun.donut.Utils.SquareImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp"
+            android:background="#4CAF50"
+            android:id="@+id/color4"/>
+
+        <com.gulabjamun.donut.Utils.SquareImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="#FFEB3B"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp"
+            android:id="@+id/color5"/>
+        <com.gulabjamun.donut.Utils.SquareImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp"
+            android:background="#E91E63"
+
+            android:id="@+id/color6"/>
+
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+
+            <com.gulabjamun.donut.Utils.SquareImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="#FF5722"
+                android:id="@+id/color7"/>
+
+            <com.gulabjamun.donut.Utils.SquareImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="#9C27B0"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp"
+                android:id="@+id/color8"/>
+            <com.gulabjamun.donut.Utils.SquareImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="#673AB7"
+
+                android:id="@+id/color9"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+
+            <com.gulabjamun.donut.Utils.SquareImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="#795548"
+                android:id="@+id/color10"/>
+
+            <com.gulabjamun.donut.Utils.SquareImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="#FAFAFA"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp"
+                android:id="@+id/color11"/>
+
+            <com.gulabjamun.donut.Utils.SquareImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="#90A4AE"
+                android:id="@+id/color12"/>
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

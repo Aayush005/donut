@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "885976531304",
+    "firebase_url": "https://donut-1df9b.firebaseio.com",
+    "project_id": "donut-1df9b",
+    "storage_bucket": "donut-1df9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885976531304:android:b866ac1412b9ffdf",
+        "android_client_info": {
+          "package_name": "com.gulabjamun.donut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885976531304-mb7fvqd4t51dp1ir6sbuus1gdmpsja83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gulabjamun.donut",
+            "certificate_hash": "34969c612dd64615cff164d8945ed45edc3094fa"
+          }
+        },
+        {
+          "client_id": "885976531304-jvsoarju8e76ddb91a8388ektv2khqps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvCd-Js63mqzfDT1WXiEhLyM1Lgvey34c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885976531304-jvsoarju8e76ddb91a8388ektv2khqps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
